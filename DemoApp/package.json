@@ -10,6 +10,7 @@
   "dependencies": {
     "appcenter": "^2.0.0",
     "appcenter-analytics": "^2.0.0",
+    "appcenter-auth": "^2.0.0",
     "appcenter-crashes": "^2.0.0",
     "appcenter-push": "^2.0.0",
     "metro": "0.48.1",
